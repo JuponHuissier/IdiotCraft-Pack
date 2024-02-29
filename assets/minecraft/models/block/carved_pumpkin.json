@@ -4,5 +4,8 @@
     "front": "minecraft:block/carved_pumpkin",
     "side": "minecraft:block/pumpkin_side",
     "top": "minecraft:block/pumpkin_top"
-  }
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 2901 }, "model": "custom:item/pirate_hat" }
+  ]
 }
