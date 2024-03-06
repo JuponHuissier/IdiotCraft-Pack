@@ -1,3 +1,5 @@
+si vous le regardez sur github, regardez le en mode "code"
+
 Pour ajouter un item
 ######################
 1. créer votre modèle (pas obligatoire)
