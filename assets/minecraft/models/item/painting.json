@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/painting"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom:tableau/paysage1" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "custom:tableau/under_the_rain" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "custom:tableau/lost_in_the_jungle" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "custom:tableau/alone_and_thirsty" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "custom:tableau/fuck_you" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "custom:tableau/a_boggy_valentine" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "custom:tableau/i_did_an_oopsie" },
+	{ "predicate": { "custom_model_data": 8 }, "model": "custom:tableau/manifest_destiny" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "custom:tableau/my_dark_past" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "custom:tableau/a_new_day" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "custom:tableau/the_sun_is_looking" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "custom:tableau/clown" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "custom:tableau/tableau_4x3",
+  "textures": {
+    "0": "custom:tableau/alone_and_thirsty"
+  }
+}

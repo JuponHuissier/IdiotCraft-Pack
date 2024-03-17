@@ -4,6 +4,12 @@
             "type": "directory",
             "source": "hats",
             "prefix": "hats/"
+        },
+		{
+            "type": "directory",
+            "source": "tableau",
+            "prefix": "tableau/"
         }
     ]
+	
 }
