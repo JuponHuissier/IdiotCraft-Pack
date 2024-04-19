@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "tableau",
             "prefix": "tableau/"
+        },
+		{
+            "type": "directory",
+            "source": "weapons",
+            "prefix": "weapons/"
         }
     ]
 	
