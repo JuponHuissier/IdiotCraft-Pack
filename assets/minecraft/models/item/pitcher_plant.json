@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/pitcher_plant"
   },
     "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/EE" },
+    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/e" },
 	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/D" },
 	    { "predicate": { "custom_model_data": 3 }, "model": "custom:item/C" },
 	    { "predicate": { "custom_model_data": 4 }, "model": "custom:item/B" },
