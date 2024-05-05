@@ -6,12 +6,12 @@
     "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "custom:item/E" },
 	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/D" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/C" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/B" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/A" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/S" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/SSR" },
-	    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/carte_moderne" }
+	    { "predicate": { "custom_model_data": 3 }, "model": "custom:item/C" },
+	    { "predicate": { "custom_model_data": 4 }, "model": "custom:item/B" },
+	    { "predicate": { "custom_model_data": 5 }, "model": "custom:item/A" },
+	    { "predicate": { "custom_model_data": 6 }, "model": "custom:item/S" },
+	    { "predicate": { "custom_model_data": 7 }, "model": "custom:item/SSR" },
+	    { "predicate": { "custom_model_data": 8 }, "model": "custom:item/carte_moderne" }
 	    
   ]
 }
